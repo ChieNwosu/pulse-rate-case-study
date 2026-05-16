@@ -147,3 +147,9 @@ This outputs `pulse_rate_data.csv`.
 ## Author
 
 **Chiemela Joseph Nwosu**
+
+---
+
+## Notes
+
+This project was originally completed between **March 2024 and May 2024** as a personal project while enrolled in the Computational Statistics using SAS course at **North Carolina Central University**. It has been published to GitHub in 2025 to document the workflow and make the code and data publicly accessible. The analysis, results, and report reflect the original 2024 work without modification.
